@@ -254,6 +254,12 @@
         <mxCell id="iYzIepz9ZAn4X_LT2Ltt-57" value="SIM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2000" y="328" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="iYzIepz9ZAn4X_LT2Ltt-63" value="Saldo" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="-2360" y="1030" width="800" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="iYzIepz9ZAn4X_LT2Ltt-64" value="Transferência" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="-2360" y="1460" width="800" height="390" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
